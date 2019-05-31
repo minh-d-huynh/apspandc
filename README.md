@@ -16,7 +16,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1></h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+				<p>Our Association is an incorporated association and is governed by the standard constitution for incorporated P&C associations. It is affiliated to the Federation of Parents & Citizens Associations (NSW) and meets the financial and legal obligations placed on all P&C associations.</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
