@@ -21,9 +21,7 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li></li>
-        		<li></li>
-			</ul>
+		</ul>
 		</footer>
 	</body>
 </html>
